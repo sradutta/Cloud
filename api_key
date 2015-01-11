@@ -1,0 +1,13 @@
+
+https://developer.forecast.io/
+
+22c395cec196961c2ee209164e4ca0a0
+
+Welcome to your developer dashboard…
+This page allows you to track your usage of the Forecast API. At the bottom of the page is your API Key which should replace “APIKEY” anywhere it appears in the documentation. For example…
+
+https://api.forecast.io/forecast/22c395cec196961c2ee209164e4ca0a0/37.8267,-122.423
+…will get you the forecast for Alcatraz (in case you need to use hyper-local weather predictions to aid in an escape). If anyone ever gets a hold of your API Key you should reset it immediately.
+
+
+The api documentation can be found at https://developer.forecast.io/docs/v2
